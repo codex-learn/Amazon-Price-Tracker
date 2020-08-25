@@ -4,7 +4,7 @@ Amazon Price Tracker automatically track any amazon product price and sends noti
 # Prerequisite
 
 We are using five Modules to build Amazon Price Tracker using Python  
-# 1. Requests
+## 1. Requests
 Requests module allows you to send HTTP requests using Python
 Installation: pip install requests
 
